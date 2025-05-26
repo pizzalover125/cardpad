@@ -33,12 +33,7 @@ keyboard.matrix = [direct_scanner, pcf_scanner]
 
 keyboard.keymap = [
     [
-        KC.A, KC.B, KC.C,
-        KC.D, KC.E, KC.F,
-        KC.G, KC.H, KC.I,
-        KC.J, KC.K, KC.L,
-        KC.M, KC.N, KC.O,
-        KC.MACRO("Hello!"),
+        KC.A, KC.B, KC.C, KC.D, KC.E, KC.F, KC.G, KC.H, KC.I, KC.J, KC.K, KC.L, KC.M, KC.N, KC.O, KC.MACRO("https://www.youtube.com/watch?v=dQw4w9WgXcQ"),
     ]
 ]
 
